@@ -1,0 +1,22 @@
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/kernel
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/cpu
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/memoria
+
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_1" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadA.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_2" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadA.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_3" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadB.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_4" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadB.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_5" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadC.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/ESTABILIDAD_6" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaEstabilidad/consolaEstabilidadC.conf"
+
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/MEMORIA_1" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaMemoria/consolaMemoriaA.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/MEMORIA_2" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaMemoria/consolaMemoriaB.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/MEMORIA_3" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaMemoria/consolaMemoriaC.conf"
+
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/PLANI_FULL_1" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaPlaniFull/consolaPlaniFull.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/PLANI_FULL_2" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaPlaniFull/consolaPlaniFull.conf"
+
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/TLB_1" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaTlb/consolaTlbA.conf"
+LD_LIBRARY_PATH="/home/utnso/tp-2022-2c-Grupo-54/shared-lib/Debug" ./Debug/consola "/home/utnso/geck-pruebas/TLB_2" "/home/utnso/tp-2022-2c-Grupo-54/consola/consolaTlb/consolaTlbB.conf"
+
+
